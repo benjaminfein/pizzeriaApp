@@ -1,7 +1,5 @@
 package com.example.pizzeriaapp.menuItem.model;
 
-
-
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

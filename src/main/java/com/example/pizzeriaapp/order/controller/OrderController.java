@@ -3,7 +3,6 @@ package com.example.pizzeriaapp.order.controller;
 import com.example.pizzeriaapp.menuItem.exception.MenuItemIdNotFoundException;
 import com.example.pizzeriaapp.order.model.Order;
 import com.example.pizzeriaapp.order.service.OrderService;
-import com.example.pizzeriaapp.user.model.User;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
